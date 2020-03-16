@@ -58,6 +58,8 @@ public class Model {
 			throw new InvalidParameterException("Devi inserire un numero che non hai ancora utilizzato tra 1 e"+NMAX+"\n");
 		}
 		
+		//ciao
+		
 		//il tentativo e valido ->possiamo "provarlo"
     	this.tentativiFatti ++; //incremento i tentativi
     	
